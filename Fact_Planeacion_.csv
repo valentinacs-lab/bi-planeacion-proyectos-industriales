@@ -1,0 +1,7 @@
+Fecha,Año,Mes,MesNum,Proyecto,Actividad,Responsable,Avance_Planeado,Avance_Ejecutado,Presupuesto_Planeado,Presupuesto_Ejecutado,Estado
+2023-01-15,2023,Enero,1,Montaje Horno,Instalación base,Hornos,10,8,50000,52000,Atrasado
+2023-02-15,2023,Febrero,2,Montaje Horno,Estructura metálica,Ingeniería,25,22,80000,83000,Atrasado
+2023-03-15,2023,Marzo,3,Montaje Horno,Montaje horno,Hornos,45,48,120000,118000,En tiempo
+2023-04-15,2023,Abril,4,Montaje Horno,Chimeneas,Obra civil,65,60,90000,97000,Atrasado
+2023-05-15,2023,Mayo,5,Montaje Horno,Pruebas técnicas,Calidad,85,80,40000,42000,Atrasado
+2023-06-15,2023,Junio,6,Montaje Horno,Puesta en marcha,Producción,100,95,30000,35000,Crítico
