@@ -42,7 +42,7 @@ Modelo en esquema estrella optimizado para análisis temporal y operacional.
 ## Contenido del Repositorio
 - `/data`: datasets simulados (CSV)
 - `/dashboard`: archivo Power BI (.pbix)
-`/imagenes`: capturas del dashboard
+-`/imagenes`: capturas del dashboard
 - `/docs`: documentación en PDF
 
 ## Nota
